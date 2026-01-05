@@ -1,0 +1,25 @@
+node_modules/
+.expo/
+dist/
+web-build/
+
+# iOS
+*.pbxproj
+*.xcworkspace
+*.dSYM
+/ios/Pods/
+*.podspec
+
+# Android
+/android/app/build/
+/android/build/
+/android/.gradle/
+/android/app/build/
+*.apk
+
+# Misc
+.DS_Store
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
